@@ -1,6 +1,6 @@
 # AWS Certification Roadmap & Study Guide
 First steps to iniciate in AWS cloud with professional certifications
-
+ [Initial certifications](https://aws.amazon.com/es/certification/)
 This repository is a **practical guide and roadmap** to help you prepare for **AWS certifications**, starting from foundational levels and progressing toward associate and professional paths.
 
 It focuses on:
